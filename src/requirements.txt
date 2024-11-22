@@ -1,0 +1,12 @@
+asgiref
+certifi
+charset-normalizer
+Django
+django-cors-headers==4.6.0
+djangorestframework
+idna
+pytz
+pyYAML
+requests
+sqlparse
+urllib3
